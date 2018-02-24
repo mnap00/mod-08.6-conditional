@@ -1,4 +1,5 @@
 // script.js
+/* eslint-disable no-console */
 
 var a = prompt('Enter number a:'),
     b = prompt('Enter number b:'),
