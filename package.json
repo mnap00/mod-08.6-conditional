@@ -1,6 +1,6 @@
 {
-  "name": "mod-08.5-triangle",
-  "version": "0.5.0",
+  "name": "mod-08.6-conditional",
+  "version": "0.6.0",
   "description": "Triangle area",
   "main": "index.js",
   "scripts": {
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnap00/mod-08.5-triangle.git"
+    "url": "git+https://github.com/mnap00/mod-08.6-conditional.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mnap00/mod-08.5-triangle/issues"
+    "url": "https://github.com/mnap00/mod-08.6-conditional/issues"
   },
-  "homepage": "https://github.com/mnap00/mod-08.5-triangle#readme",
+  "homepage": "https://github.com/mnap00/mod-08.6-conditional#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
