@@ -8,5 +8,5 @@ console.log('Triangle field with base a: ' + a +
     ' and height h: ' + h + ' is equal to: ' + triangleArea + '.');
 alert('Triangle field with base a: ' + a +
     ' and height h: ' + h + ' is equal to: ' + triangleArea + '.');
-document.write('Triangle field with base a: ' + a +
-    ' and height h: ' + h + ' is equal to: ' + triangleArea + '.');
+document.write('<p>Triangle field with base a: ' + a +
+    ' and height h: ' + h + ' is equal to: ' + triangleArea + '.</p>');
