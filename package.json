@@ -1,7 +1,7 @@
 {
-  "name": "mod-08.4-comments",
-  "version": "0.4.0",
-  "description": "JavaScript Comments",
+  "name": "mod-08.5-triangle",
+  "version": "0.5.0",
+  "description": "Triangle area",
   "main": "index.js",
   "scripts": {
     "test": "npm-run-all --sequential test:*",
@@ -22,15 +22,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnap00/mod-08.4-comments.git"
+    "url": "git+https://github.com/mnap00/mod-08.5-triangle.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mnap00/mod-08.4-comments/issues"
+    "url": "https://github.com/mnap00/mod-08.5-triangle/issues"
   },
-  "homepage": "https://github.com/mnap00/mod-08.4-comments#readme",
+  "homepage": "https://github.com/mnap00/mod-08.5-triangle#readme",
   "devDependencies": {
     "autoprefixer-cli": "^1.0.0",
     "browser-sync": "^2.23.6",
