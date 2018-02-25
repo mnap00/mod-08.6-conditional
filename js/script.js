@@ -8,9 +8,12 @@ var a = prompt('Enter number a:'),
 console.log('Value is: ' + value + '.');
 
 if ( value > 0 ) {
-    console.log ('Value is positive number');
+    console.log('Value is positive number');
 } else if ( value < 0 ) {
-    console.log ('Value is negative number');
+    console.log('Value is negative number');
+//} else if ( value === 0 ) {
+} else if (( value === 0 ) && (( a != '' ) || ( b != '' ))) {
+    console.log('Value equals zero');
 } else {
-    console.log ('Value equals zero');
+    console.log('You did not enter number(s)');
 }
